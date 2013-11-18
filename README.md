@@ -1,3 +1,7 @@
+===========
+EmailGrammar
+============
+
 Just experimental project testing some ideas. Very raw and needs some extra work to be more useful (check TODO section)
 Will check the grammar of your SENT messages in a Gmail account.
 Based on PyGmail lib and LanguageTool server

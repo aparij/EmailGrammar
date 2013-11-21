@@ -34,9 +34,9 @@ The process to get the email takes a while if it's more that couple of months of
 
 ##TODO:
 
-1)LanguageTool grammar checker is not perfect as such will flag brands,places,names as errors
+*   LanguageTool grammar checker is not perfect as such will flag brands,places,names as errors
 What can be improved is to download the gmail contacts and remove them from the list of errors.
 Also get a brands databases to filter them out from the errors list
-2)Languages , EN_US and EN_GB are quite different and if you mix them around in your email you going to get false positive.
+*   Languages , EN_US and EN_GB are quite different and if you mix them around in your email you going to get false positive.
   again we can check for the other one in the end.
 

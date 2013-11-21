@@ -7,7 +7,7 @@ Just experimental project testing some ideas. Very raw and needs some extra work
 Based on PyGmail lib and LanguageTool server
 
 
-Prerequisites:
+### Prerequisites:
 
 Download and start your own instance of LanguageTool server for grammar checking
 run as :
@@ -32,7 +32,7 @@ and run
 The process to get the email takes a while if it's more that couple of months of emails to download.
 
 
-TODO:
+##TODO:
 
 1)LanguageTool grammar checker is not perfect as such will flag brands,places,names as errors
 What can be improved is to download the gmail contacts and remove them from the list of errors.

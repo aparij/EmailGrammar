@@ -11,7 +11,7 @@ Based on PyGmail lib and LanguageTool server
 
 Download and start your own instance of LanguageTool server for grammar checking
 run as :
-    java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081
+    <pre>java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 </pre>
 
 or either use the demo server at https://languagetool.org:8081/ (will be slow , because of 20req/min per IP)
 
@@ -27,7 +27,7 @@ wsgiref==0.1.2
 
 Fill in all the necessary configuration options in emailgrammar.cfg.
 and run
-    python start_processing.py
+    <pre>python start_processing.py</pre>
 
 The process to get the email takes a while if it's more that couple of months of emails to download.
 

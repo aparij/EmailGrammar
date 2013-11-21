@@ -18,12 +18,13 @@ or either use the demo server at https://languagetool.org:8081/ (will be slow , 
 
 
 the python requirements are in email_grammar.req:
+<pre>
 argparse==1.2.1
 lxml==3.2.3
 pygmail==0.0.5.4
 requests==2.0.1
 wsgiref==0.1.2
-
+</pre>
 
 Fill in all the necessary configuration options in emailgrammar.cfg.
 and run

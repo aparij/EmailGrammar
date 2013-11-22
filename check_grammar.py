@@ -1,7 +1,6 @@
 __author__ = 'alex'
 
 import requests
-from lxml import etree
 from lxml import objectify
 
 class GrammarChecker():
